@@ -18,5 +18,5 @@ List of commands used:
 14. `git tag` used to make the release branch.
 
 
-* There are two releases.
+* There are three releases.
 * .gitignore is added for ignoring .log files.
