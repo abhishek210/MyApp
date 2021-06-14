@@ -1,6 +1,6 @@
 # MyApp
 
-List of comments used:
+List of commands used:
 
 1. `git init` used for initializing the git in folder or repository.
 2. `git status` used to check the status of different files in the current branch of repository.
